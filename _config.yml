@@ -1,9 +1,9 @@
-name: RTA Dubai Updates
-title: RTA Dubai Updates
-description: Your comprehensive guide to Dubai's RTA bus services. Find up-to-date schedules, fare information, and detailed route maps for seamless travel.
+name: Shop Spot Platform
+title: Shop Spot Platform
+description: The place for complete reviews of leading retail businesses in both the USA and Europe supports comprehensive findings on price points, product excellence and shopping convenience along with retail market special offers
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
-url: 'https://rtadubaiblog.github.io'
+url: 'https://shopspot.github.io'
 baseurl: ''
 google_analytics: ''
 include:
@@ -11,12 +11,12 @@ include:
 permalink: '/:title/'
 authors:
   uaefin:
-    name: RTA Dubai Info
-    display_name: RTA Dubai Info
-    email: rtadubai@gmail.com
+    name: Shop Spot Platform
+    display_name: Shop Spot Platform
+    email: shopspot@gmail.com
     twitter: ''
-    description: "Your go-to source for all things RTA Dubai bus services. Providing accurate and up-to-date information for commuters."
-    web: "https://rtadubaiblog.github.io"
+    description: "Your trusted source for in-depth reviews of major retail brands across the USA and Europe."
+    web: "https://shopspot.github.io"
     gravatar: 2c7d99fe281ecd3bcd65ab915bac6dd5
 plugins:
   - jekyll-paginate
