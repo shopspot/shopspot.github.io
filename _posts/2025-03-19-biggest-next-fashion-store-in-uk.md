@@ -12,7 +12,7 @@ Next functions as a leading British retail chain which provides a wide range of 
 
 ## 1. Next Bluewater, Dartford
 
-![next-bluewater,-dartford](assets/images/next-bluewater,-dartford.jpg)
+![next-bluewater,-dartford](/assets/images/next-bluewater,-dartford.jpg)
 
 - **Address:** 1 Bluewater Pkwy, Thames Walk, Dartford, Greenhithe DA9 9SJ, United Kingdom
 - **Phone:** +44 333 005 5209
@@ -29,7 +29,7 @@ Next Bluewater operates as the biggest UK Next store that serves various shopper
 
 Shoppers can find comprehensive fashion offerings for men and women and children and complete their shopping needs in the broad homeware section. The shopping experience at Next Bluewater includes ample seating areas along with fitting rooms which provide convenience to customers. The Next Bluewater flagship store regularly presents distinctive collection lines together with annual fashion trends to its customers.
 
-![next-sale](assets/images/next-sale.jpg)
+![next-sale](/assets/images/next-sale.jpg)
 
 ### Notable Features:
 - **Extensive Product Range:** A vast selection of clothing, footwear, and homeware.
@@ -38,7 +38,7 @@ Shoppers can find comprehensive fashion offerings for men and women and children
 
 ## 2. Next Manchester Arndale
 
-![next-manchester-arndale](assets/images/next-manchester-arndale.jpg)
+![next-manchester-arndale](/assets/images/next-manchester-arndale.jpg)
 
 - **Address:** Manchester Arndale, Corporation St, Manchester M4 3AJ, United Kingdom
 - **Phone:** +44 333 005 5523
@@ -60,7 +60,7 @@ Located in the central Manchester district Next Arndale operates as a primary fa
 
 ## 3. Next Birmingham, St Martins Square
 
-![next-birmingham,-st-martins-square](assets/images/next-birmingham,-st-martins-square.jpg)
+![next-birmingham,-st-martins-square](/assets/images/next-birmingham,-st-martins-square.jpg)
 
 - **Address:** St Martins Square, Moor Street Queensway, Birmingham B5 4BA, United Kingdom
 - **Phone:** +44 333 005 5226
@@ -82,7 +82,7 @@ Customers visit Next Birmingham because of its fashionable layout which presents
 
 ## 4. Next Westfield London
 
-![next-westfield-london](assets/images/next-westfield-london.jpg)
+![next-westfield-london](/assets/images/next-westfield-london.jpg)
 
 - **Address:** Unit A Ariel Way, London W12 7GA, United Kingdom
 - **Phone:** +44 333 005 5328
@@ -103,7 +103,7 @@ Next Westfield London provides an upmarket shopping experience through its styli
 
 ## 5. Next Montfichet Rd, London (Permanently Closed)
 
-![next-montfichet-rd,-london](assets/images/next-montfichet-rd,-london.jpg)
+![next-montfichet-rd,-london](/assets/images/next-montfichet-rd,-london.jpg)
 
 - **Address:** 228-231 Montfichet Rd, London E20 1EQ, United Kingdom
 - **Store Size:** Approximately 70,000 sq ft (6,503 m²)
@@ -134,7 +134,7 @@ Yes, all flagship Next stores provide a comprehensive range of homeware and furn
 **Are these stores open for late-night shopping?**  
 Yes, most Next stores have extended hours during weekdays for customer convenience.
 
-![next-bluewater,-dartford-vast-store](assets/images/next-bluewater,-dartford-vast-store.jpg)
+![next-bluewater,-dartford-vast-store](/assets/images/next-bluewater,-dartford-vast-store.jpg)
 
 ## Conclusion
 Five flagship Next stores operating in the UK provide customers an unmatched shopping environment through their wide selection and roomy spaces and dedicated assistance from store personnel. Customers frequently visit Next for their fashion needs and home product requirements.
