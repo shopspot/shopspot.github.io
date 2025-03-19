@@ -12,7 +12,7 @@ The British retail market features Asda as its primary supermarket chain with wi
 
 ## 1. Asda Roehampton Superstore
 
-![asda-roehampton-superstore](assets/images/asda-roehampton-superstore.jpg)
+![asda-roehampton-superstore](/assets/images/asda-roehampton-superstore.jpg)
 
 - **Address:** 31 Roehampton Vale, London SW15 3DT, United Kingdom  
 - **Phone:** +44 20 8780 2780  
@@ -30,7 +30,7 @@ Shoppers can easily find their items at Asda Roehampton because the store mainta
 
 Residential customers and tourists alike choose this store due to its competitive pricing strategy and regular promotional activities. The staff members at Asda Roehampton create a pleasant shopping experience by helping customers with their needs. Shoppers can access the store throughout the day because it stays open for long periods.
 
-![croissant-&-coffee-candle-at-asda](assets/images/croissant-&-coffee-candle-at-asda.jpg)
+![croissant-&-coffee-candle-at-asda](/assets/images/croissant-&-coffee-candle-at-asda.jpg)
 
 ### Notable Features:
 - **Extensive Product Range:** Offers groceries, clothing, electronics, and home essentials.
@@ -39,7 +39,7 @@ Residential customers and tourists alike choose this store due to its competitiv
 
 ## 2. Asda Edmonton Green Superstore
 
-![asda-edmonton-green-superstore](assets/images/asda-edmonton-green-superstore.jpg)
+![asda-edmonton-green-superstore](/assets/images/asda-edmonton-green-superstore.jpg)
 
 - **Address:** 1 W Mall, London N9 0AL, United Kingdom  
 - **Phone:** +44 20 8884 5300  
@@ -61,7 +61,7 @@ The retail center position of Asda Edmonton Green provides customers with a dive
 
 ## 3. Asda Beckton Superstore
 
-![asda-beckton-superstore](assets/images/asda-beckton-superstore.jpg)
+![asda-beckton-superstore](/assets/images/asda-beckton-superstore.jpg)
 
 - **Address:** Tollgate Rd, Beckton E6 5JP, United Kingdom  
 - **Phone:** +44 20 7476 4800  
@@ -99,7 +99,7 @@ Yes, all these stores have fresh produce sections with fruits, vegetables, and b
 **Are these stores open 24 hours?**  
 Asda Roehampton is open 24 hours on select days, while the other two stores have extended late-night hours.  
 
-![mc-donald's-at-asda-roehampton-superstore](assets/images/mc-donald's-at-asda-roehampton-superstore.jpg)
+![mc-donald's-at-asda-roehampton-superstore](/assets/images/mc-donald's-at-asda-roehampton-superstore.jpg)
 
 ## Conclusion
 The largest London-based Asda outlets including Roehampton together with Edmonton Green and Beckton present shoppers with extensive shopping space along with wide ranges of products and outstanding customer assistance. All customers enjoy a convenient and pleasant shopping journey through the wide array of products these stores offer.
