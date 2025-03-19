@@ -10,7 +10,7 @@ featured: false
 
 Costco stands out to most people as a discount wholesale store with amazing prices. The largest Costco store in London provides its customers with more benefits than bulk food purchasing. Costco Hayes exists in Western International Park as a shopping center which unites a wide selection with hassle-free shopping alongside exclusive member benefits. The warehouse offers unique shopping opportunities that serve both domestic homes and corporate needs.
 
-![costco-hayes,-western-international-park](assets/images/costco-hayes,-western-international-park.jpg)
+![costco-hayes,-western-international-park](/assets/images/costco-hayes,-western-international-park.jpg)
 
 ## Store Details
 - **Address:** Costco Hayes, Western International Park, Hayes Rd, Cranford, Hounslow, Southall UB2 5XJ, United Kingdom  
@@ -24,7 +24,7 @@ Costco stands out to most people as a discount wholesale store with amazing pric
 
 ## The Largest Costco in London
 
-![costco-hayes,-western-international-park-vast-store](assets/images/costco-hayes,-western-international-park-vast-store.jpg)
+![costco-hayes,-western-international-park-vast-store](/assets/images/costco-hayes,-western-international-park-vast-store.jpg)
 
 The warehouse Costco Hayes in London holds the title for being its biggest location spanning 190000 square feet. The enormous facility contains a broad range of merchandise from bulk food items to top electronics and fresh foods and everyday household needs. The enormous space enables the warehouse to offer numerous products suitable for consumers and commercial clients seeking bulk purchases.
 
@@ -35,7 +35,7 @@ Costco Hayes provides members with added convenience along with unique special d
 - **Hearing Aids** – Professional hearing services and high-quality devices.
 - **Food Court** – Enjoy Costco’s famous hot dog combo and other delicious food options.
 
-![costco-hayes,-western-international-park-frozen-food-section](assets/images/costco-hayes,-western-international-park-frozen-food-section.jpg)
+![costco-hayes,-western-international-park-frozen-food-section](/assets/images/costco-hayes,-western-international-park-frozen-food-section.jpg)
 
 ## A Wholesale Shopping Experience Like No Other
 Costco Hayes enhances retail visits through its varied department selection with additional specialty service options such as:
@@ -47,7 +47,7 @@ Costco Hayes enhances retail visits through its varied department selection with
 
 ## Why You Should Visit Costco Hayes
 
-![quick-ramadhan-costco-haul](assets/images/quick-ramadhan-costco-haul.jpg)
+![quick-ramadhan-costco-haul](/assets/images/quick-ramadhan-costco-haul.jpg)
 
 London residents seeking the best wholesale shopping opportunity must visit Costco Hayes as their top destination for a complete shopping experience. The expansive warehouse offers its members every type of grocery along with electronics and fresh produce along with many specialty services. Every visit to Costco Hayes becomes more valuable because of the exclusive member benefits that come along.
 
