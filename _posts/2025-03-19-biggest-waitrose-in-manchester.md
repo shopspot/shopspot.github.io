@@ -12,7 +12,7 @@ Waitrose & Partners operates as the leading supermarket chain in the UK with exc
 
 ## 1. Waitrose & Partners, Poynton
 
-![waitrose-&-partners,-poynton](assets/images/waitrose-&-partners,-poynton.jpg)
+![waitrose-&-partners,-poynton](/assets/images/waitrose-&-partners,-poynton.jpg)
 
 - **Address:** 89 Park Ln, Poynton, Stockport SK12 1RD, United Kingdom
 - **Phone:** +44 1625 858033
@@ -30,7 +30,7 @@ Waitrose Poynton represents the biggest Waitrose store in Manchester with a comp
 
 Daily fresh baking takes place in the bakery section which serves bread and pastries to customers at Waitrose Poynton. The store provides shoppers with numerous organic and locally produced products that support different dietary needs. Shoppers can rely on the approachable staff members who provide help with any shopping requirements.
 
-![waitrose-&-partners-baking-team](assets/images/waitrose-&-partners-baking-team.jpg)
+![waitrose-&-partners-baking-team](/assets/images/waitrose-&-partners-baking-team.jpg)
 
 ### Notable Features:
 - **Extensive Product Range:** Offers an impressive variety of fresh and organic food, fine wines, and exclusive delicatessen products.
@@ -39,7 +39,7 @@ Daily fresh baking takes place in the bakery section which serves bread and past
 
 ## 2. Waitrose & Partners, Cheadle Hulme
 
-![waitrose-&-partners,-cheadle-hulme](assets/images/waitrose-&-partners,-cheadle-hulme.jpg)
+![waitrose-&-partners,-cheadle-hulme](/assets/images/waitrose-&-partners,-cheadle-hulme.jpg)
 
 - **Address:** Station Rd, Cheadle Hulme, Cheadle SK8 5AE, United Kingdom
 - **Phone:** +44 161 486 1702
@@ -60,7 +60,7 @@ The Cheadle Hulme Waitrose store has gained admiration for its high-end grocerie
 
 ## 3. Waitrose & Partners, Altrincham
 
-![waitrose-&-partners,-altrincham](assets/images/waitrose-&-partners,-altrincham.jpg)
+![waitrose-&-partners,-altrincham](/assets/images/waitrose-&-partners,-altrincham.jpg)
 
 - **Address:** 10 Draybank Rd, West Timperley, Timperley, Altrincham WA14 5ZL, United Kingdom
 - **Phone:** +44 161 929 7802
@@ -87,6 +87,8 @@ The three largest Waitrose locations in Manchester offer customers an exceptiona
 - **Convenience:** Online shopping and Click & Collect services enhance the customer experience by saving time.
 - **Community Engagement:** Regular events and food-tasting sessions encourage customer participation and enjoyment.
 
+Also See: [Biggest Waitrose in London](https://shopspot.github.io/biggest-waitrose-in-london/)
+
 ## FAQ
 **What is the largest Waitrose location in Manchester?**  
 Waitrose Poynton is the largest Waitrose store in Manchester, covering an area of 25,353 sq ft.
@@ -97,7 +99,7 @@ Yes, all locations provide organic, gluten-free, and ethically sourced food opti
 **Are these stores accessible for late-night shopping?**  
 Yes, most Waitrose stores stay open until 8.00 pm or later on weekdays.
 
-![waitrose-&-partners-foods](assets/images/waitrose-&-partners-foods.jpg)
+![waitrose-&-partners-foods](/assets/images/waitrose-&-partners-foods.jpg)
 
 ## Conclusion
 Manchester citizens find exceptional grocery shopping at the Waitrose & Partners retail locations throughout Poynton Cheadle Hulme and Altrincham. Customers benefit from large retail areas and diverse premium product selection alongside superior customer services at these flagship locations. Waitrose stores meet the requirements of customers who need premium grocery items and fresh produce along with gourmet ingredients.
